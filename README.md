@@ -11,7 +11,6 @@
 
 - 🖥 &nbsp; Linux
 - 💻 &nbsp; C/C++ | Java | Shell Scripting
-- 🌐 &nbsp; HTML | CSS
 - 🔧 &nbsp; Git
 
 <br>
