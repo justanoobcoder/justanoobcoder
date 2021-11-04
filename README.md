@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack
 
 - 🖥 &nbsp; Linux
-- 💻 &nbsp; C/C++ | Java | Shell Scripting
+- 💻 &nbsp; C | Java | Shell Scripting
 - 🔧 &nbsp; Git
 
 <br>
