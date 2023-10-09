@@ -1,17 +1,28 @@
+
 ## Hi there! I'm Nguyen Hong Hiep (Noah). <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25">
 <img align="right" alt="GIF" src="https://github.com/justanoobcoder/justanoobcoder/blob/master/programming.gif" width="350"/>
 
 ### ℹ️ About Me
-
 - 🎓 &nbsp; I'm currently a software engineering student at FPT University.
-- 🤔 &nbsp; I'm still learning lots of things and having a plan on building a Linux From Scratch system.
+- 💪 &nbsp; I'm still learning lots of things to be a back-end developer, then DevOps engineer (maybe 😁).
 - ❤️ &nbsp; Coding, watching movies, anime, listening to music, doing stuff on Linux.
 
-### 🛠 Tech Stack
+My favorite quotes:
+> Do what you love, that's freedom. Love what you do, that's happiness.
 
-- 🖥 &nbsp; Linux
-- 💻 &nbsp; C | Java | Shell Scripting
-- 🔧 &nbsp; Git
+> While teaching, we learn. While learning, we teach.
+
+### 👨🏼‍💻 Languages
+- Java
+- C#
+- Dart
+- Javascript
+- Bash
+
+### 🛠 Technology
+- Spring Boot
+- ASP.NET Core
+- Flutter
 
 <br>
 
