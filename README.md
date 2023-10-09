@@ -19,18 +19,22 @@ My favorite quotes:
 - Javascript
 - Bash
 
-### 🛠 Technology
+### 🛠 Technologies
 - Spring Boot
 - ASP.NET Core
 - Flutter
 
+### 🛢️ Databases
+- SQL Server
+- MySQL
+
 <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justanoobcoder&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Nguyen Hong Hiep Github Stats">
-
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanoobcoder&layout=compact&text_color=daf7dc&bg_color=222222)
+<a href="https://github-readme-stats.vercel.app/api?username=justanoobcoder&show_icons=true&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&icon_color=713abe&ring_color=fcbaad">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=justanoobcoder&show_icons=true&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&icon_color=713abe&ring_color=fcbaad" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=justanoobcoder&layout=compact&langs_count=8&card_width=400&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&hide=c,css,roff,scss,Makefile,Lua,Swift,Objective-C">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justanoobcoder&layout=compact&langs_count=8&card_width=400&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&hide=c,css,roff,scss,Makefile,Lua,Swift,Objective-C" />
+</a>
 
 ### 🤝 Connect with Me
 
