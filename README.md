@@ -16,7 +16,7 @@ My favorite quotes:
 - Java
 - C#
 - Dart
-- Javascript
+- JavaScript
 - Bash
 
 ### 🛠 Technologies
