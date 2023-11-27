@@ -15,6 +15,7 @@ My favorite quotes:
 ### 👨🏼‍💻 Languages
 - Java
 - C#
+- Go
 - Dart
 - JavaScript
 - Bash
