@@ -49,5 +49,5 @@ My favorite quotes:
 <p align="center">
 &nbsp; <a href="https://facebook.com/justanoobcoder" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="50" /></a>
 &nbsp; <a href="https://www.youtube.com/c/justanoobcoder" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/youtube--v1.png" width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/honghiepnguyen" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="50"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/hiepnguyen27" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="50"/></a>
 </p>
